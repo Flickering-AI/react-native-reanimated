@@ -83,10 +83,10 @@
     "string-hash-64": "^1.0.3"
   },
   "peerDependencies": {
+    "@babel/preset-typescript": "*",
     "react": "*",
     "react-native": "*",
-    "react-native-gesture-handler": "*",
-    "@babel/preset-typescript": "*"
+    "react-native-gesture-handler": "*"
   },
   "devDependencies": {
     "@babel/core": "^7.17.2",
@@ -124,7 +124,7 @@
     "madge": "^5.0.1",
     "prettier": "^2.5.1",
     "react": "17.0.2",
-    "react-native": "0.68.0-rc.1",
+    "react-native": "0.68.0-rc.2",
     "react-native-codegen": "^0.0.7",
     "react-native-gesture-handler": "^1.6.1",
     "react-test-renderer": "17.0.2",
